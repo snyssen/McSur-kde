@@ -5,7 +5,7 @@ widgetStyle=kvantum
 ColorScheme=McSurDark
 
 [kdeglobals][Icons]
-Theme=BigSur
+Theme=Tela-dark
 
 [plasmarc][Theme]
 name=McSur-dark
@@ -17,4 +17,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__McSur-dark
 
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=FossaCursors
